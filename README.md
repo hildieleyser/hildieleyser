@@ -15,10 +15,10 @@ Technical Stack
 
 | Domain | Tools & Techniques |
 | --- | --- |
-| 🧠 Neural Analysis | fMRI Processing - Signal Analysis - SPM - FSL |
-| 🤖 Machine Learning | DeepLabCut - PyTorch - Deep Learning - Statistical Models |
-| 💻 Development | Python - MATLAB - R - Unity/VR - React |
-| 📊 Data Science | Scientific Computing - Large-scale Visualization |
+| Neural Analysis | fMRI Processing - Signal Analysis - SPM - FSL |
+| Machine Learning | DeepLabCut - PyTorch - Deep Learning - Statistical Models |
+| Development | Python - MATLAB - R - Unity/VR - React |
+| Data Science | Scientific Computing - Large-scale Visualization |
 
 Current Projects
 ----------------
