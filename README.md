@@ -1,94 +1,29 @@
 # Hildelith F. Leyser
 
-Neuroscience PhD candidate working on how social context, bodies, and sensory signals shape decision-making.  
-I build experiments, analysis pipelines, and tools that connect behaviour, physiology, and neural data across species.
+I’m a neuroscientist interested in how bodies, other people and sensory environments shape behaviour. My research began with social decision-making in primates. More recently I’ve been drawn to olfaction: what the air around us tells the nervous system and how technologies that sense or change it might affect health and trust.
 
-I currently work as a **Mechatronics and Machine Vision Engineer at [NethoLabs](https://netholabs.com/)**, where I design and prototype hardware–software systems for large-scale behavioural neuroscience.
+I build experiments and analysis tools that connect behaviour with physiology and neural data. I like questions that require a careful model and an experimental system that works with real movement, real animals and real social context.
 
-My background sits between neuroscience, machine learning, and experimental systems design. I care less about abstract models in isolation and more about whether they survive contact with real animals, real movement, and real social structure.
+## Research and projects
 
----
+**Social decision-making in primates**  
+At McGill I studied how macaques explore and exploit rewards alone and in groups. I’ve worked with behavioural choice models, social rank and awake primate fMRI. My research has also taken me to the RIKEN Center for Brain Science and the International Center for Primate Brain Research.
 
-## Current Role
+**Multimodal neuroscience**  
+At NethoLabs I led work on the human research programme, bringing together experimental protocols and synchronised recordings including EEG, fNIRS and eye tracking. I worked on device integration and data collection across human and animal research.
 
-**Mechatronics & Machine Vision Engineer — NethoLabs**
+**Olfaction and airborne exposure**  
+I’m developing Auracle, a wearable concept for sensing and filtering aspects of the air we breathe. It grew out of my interest in the olfactory route into the brain and the effects of airborne exposure. The project won a MaterialHack Blue Sky prize in 2026.
 
-- Design and prototyping of experimental hardware for animal behaviour  
-- Multi-camera vision systems for continuous tracking in complex environments  
-- Integration of sensing, actuation, and data pipelines for neuroscience research  
-- Rapid iteration between CAD, fabrication, and deployed systems  
+## Methods
 
----
-
-## Research Environments
-
-- 🇨🇦 **McGill University** — Social & Sensory Brain Lab  
-- 🇯🇵 **RIKEN Center for Brain Science** — Laboratory for Imagination & Executive Functions  
-- 🇨🇳 **International Center for Primate Brain Research** — Collaborative projects  
-
----
-
-## What I Actually Work With
-
-### Behaviour & Neural Data
-
-- fMRI analysis in awake, task-performing primates  
-- Decision-making under uncertainty and social hierarchy effects  
-- Multi-agent interaction and dominance-sensitive behaviour  
-- Embodied behaviour: movement trajectories, posture, kinematics  
-
-### Machine Learning & Modelling
-
-- Markerless pose estimation (**DeepLabCut**) and multi-camera 3D reconstruction  
-- Statistical modelling of choice behaviour (GLMs, Bayesian models, IRL)  
-- Behaviour–neural alignment and event-based analysis  
-- Early work on social and multi-agent models  
-
-### Experimental Systems & Engineering
-
-- Wireless power transfer and energy storage systems for wearable devices  
-- Embedded power management for battery-operated experimental hardware  
-- Additive manufacturing for rapid prototyping and iterative fabrication  
-- CAD and mechanical design for experimental rigs and enclosures  
-- Sensor integration, camera calibration, and hardware–software synchronisation  
-
-### Tools & Development
-
-- **Python** (NumPy, pandas, PyTorch, scientific pipelines)  
-- **MATLAB** and **R** for statistics-heavy workflows  
-- Experimental task design across hardware and software  
-- **Unity / VR** for controlled cognitive and perceptual tasks  
-- Lightweight front-end tools for data inspection and visualisation  
-
----
-
-## Current Focus
-
-- End-to-end pipelines linking choice behaviour, movement, and neural signals  
-- Behavioural deep learning for freely moving primates  
-- Making complex datasets interpretable rather than opaque  
-- Experimental paradigms that treat social context as structure, not noise  
-
----
-
-## Writing & Research Output
-
-- **Manuscript in revision**  
-  *How do we differentiate between humans and robots? A multisensory perspective*
-
-- **Conference talks & posters**  
-  COSYNE, ICPBR, British Neuroscience Society, Japanese Neuroscience Society  
-
-- **Research experience**  
-  McGill University  
-  RIKEN Center for Brain Science  
-  Royal Holloway, University of London  
-
----
+- Behavioural experiment design and analysis
+- Awake primate fMRI and physiological recording
+- Markerless pose estimation with DeepLabCut and SLEAP
+- Bayesian models of choice and social behaviour
+- Python, MATLAB and R
+- Unity and VR for perceptual and cognitive tasks
 
 ## Links
 
-🌐 [Personal site](https://hildieleyser.github.io/neuraleyser/)  
-💼 [LinkedIn](https://www.linkedin.com/in/hildelith-leyser-382564206/)
-
----
+[Personal site](https://hildieleyser.com) · [LinkedIn](https://www.linkedin.com/in/hildelith-leyser-382564206/)
