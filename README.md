@@ -1,33 +1,19 @@
 # Hildie Leyser
 
-I'm a computational neuroscientist based in London, and I'm looking for data science roles.
+I'm a computational neuroscientist based in London and I'm looking for data science roles.
 
-Most of my work comes down to one question. Is this model telling us something true, or has it found a shortcut? At Netholabs I evaluated VQ-VAE models of mouse behaviour and found that in one model codebook perplexity tracked motion energy at ρ = 0.827. It looked convincing and was wrong about the phenomenon. Finding that kind of failure is the part of the job I enjoy most.
+I started out in history at Oxford before moving into neuroscience. For my graduate research at McGill and RIKEN I studied how macaques explore and exploit rewards, both alone and in groups. I then joined Netholabs as its second employee and became Head of Research for the human programme, where I worked out how to record EEG and fNIRS in sync with eye tracking and motion capture.
 
-## Selected work
+The question I keep coming back to is what a model has actually learned. At Netholabs I evaluated VQ-VAE models of mouse behaviour, and one of them looked very convincing until I saw that its codebook perplexity tracked motion energy at ρ = 0.827. Perhaps it was mostly telling us how much the mouse was moving. That is a very different thing from finding behaviour, and I now go looking for this kind of shortcut in everything I build.
 
-**[site-signature-audit](https://github.com/hildieleyser/site-signature-audit)**
-Tests whether frozen pathology embeddings reveal which site a slide came from, so that a model can't quietly learn the hospital instead of the biology. Python and scikit-learn, with a command line tool. The worked examples use synthetic data.
+## Some things I've made
 
-**[success-claim-audit](https://github.com/hildieleyser/success-claim-audit)**
-Scores a robot policy's own claims of success against independent observation, with a correction for observer error. Reports bootstrap confidence intervals and calibration. The worked examples use synthetic data.
+- [physiological-stress-detection](https://github.com/hildieleyser/physiological-stress-detection) detects stress from wearable signals in the 15 people of the WESAD study. Split at random, the model scores a macro F1 of 0.999. On people it has never seen that falls to 0.898, and for one person it can be as low as 0.61. Most of the gap is presumably the model recognising individuals.
+- [site-signature-audit](https://github.com/hildieleyser/site-signature-audit) asks whether frozen pathology embeddings give away which site a slide came from. If they do, a model could be learning the hospital rather than the biology. The examples use synthetic data.
+- [success-claim-audit](https://github.com/hildieleyser/success-claim-audit) compares what a robot policy says it achieved with what an independent observer saw. The examples use synthetic data here too.
+- [stop-semantics](https://github.com/hildieleyser/stop-semantics) tests what actually happens when you hit the emergency stop on a physical AI system. The examples come from simulation.
+- [social-exploration-primates](https://github.com/hildieleyser/social-exploration-primates) holds my hierarchical Bayesian models of how social context changes exploration in six Japanese macaques.
 
-**[stop-semantics](https://github.com/hildieleyser/stop-semantics)**
-A conformance test for emergency stops in physical AI systems. The examples come from simulation.
+I work mostly in Python and R, with PyTorch for deep learning and brms for Bayesian modelling. I trained in data science at Le Wagon and I also teach Python for scientific computing, including a workshop for NHS staff at Imperial College London.
 
-**[social-exploration-primates](https://github.com/hildieleyser/social-exploration-primates)**
-Hierarchical Bayesian models in brms of how social context changes exploration in six Japanese macaques.
-
-## Tools
-
-**Modelling** Python, PyTorch, scikit-learn, R and brms
-
-**Data** multimodal time series, LSL and XDF synchronisation, multi-view pose estimation with DeepLabCut and SLEAP
-
-**Methods** hierarchical Bayesian inference, reinforcement learning, study design
-
-## Background
-
-I was Head of Research for the human programme at Netholabs, and before that a graduate researcher at McGill and the RIKEN Center for Brain Science. I trained in data science and machine learning at Le Wagon, and I teach Python for scientific computing, including a workshop for NHS staff at Imperial College London.
-
-[hildieleyser.com](https://hildieleyser.com) · [LinkedIn](https://www.linkedin.com/in/hildelith-leyser-382564206/)
+You can find me at [hildieleyser.com](https://hildieleyser.com) or on [LinkedIn](https://www.linkedin.com/in/hildelith-leyser-382564206/).
