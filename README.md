@@ -1,29 +1,33 @@
-# Hildelith F. Leyser
+# Hildie Leyser
 
-I’m a neuroscientist interested in how bodies, other people and sensory environments shape behaviour. My research began with social decision-making in primates. More recently I’ve been drawn to olfaction: what the air around us tells the nervous system and how technologies that sense or change it might affect health and trust.
+I'm a computational neuroscientist based in London, and I'm looking for data science roles.
 
-I build experiments and analysis tools that connect behaviour with physiology and neural data. I like questions that require a careful model and an experimental system that works with real movement, real animals and real social context.
+Most of my work comes down to one question. Is this model telling us something true, or has it found a shortcut? At Netholabs I evaluated VQ-VAE models of mouse behaviour and found that in one model codebook perplexity tracked motion energy at ρ = 0.827. It looked convincing and was wrong about the phenomenon. Finding that kind of failure is the part of the job I enjoy most.
 
-## Research and projects
+## Selected work
 
-**Social decision-making in primates**  
-At McGill I studied how macaques explore and exploit rewards alone and in groups. I’ve worked with behavioural choice models, social rank and awake primate fMRI. My research has also taken me to the RIKEN Center for Brain Science and the International Center for Primate Brain Research.
+**[site-signature-audit](https://github.com/hildieleyser/site-signature-audit)**
+Tests whether frozen pathology embeddings reveal which site a slide came from, so that a model can't quietly learn the hospital instead of the biology. Python and scikit-learn, with a command line tool. The worked examples use synthetic data.
 
-**Multimodal neuroscience**  
-At NethoLabs I led work on the human research programme, bringing together experimental protocols and synchronised recordings including EEG, fNIRS and eye tracking. I worked on device integration and data collection across human and animal research.
+**[success-claim-audit](https://github.com/hildieleyser/success-claim-audit)**
+Scores a robot policy's own claims of success against independent observation, with a correction for observer error. Reports bootstrap confidence intervals and calibration. The worked examples use synthetic data.
 
-**Olfaction and airborne exposure**  
-I’m developing Auracle, a wearable concept for sensing and filtering aspects of the air we breathe. It grew out of my interest in the olfactory route into the brain and the effects of airborne exposure. The project won a MaterialHack Blue Sky prize in 2026.
+**[stop-semantics](https://github.com/hildieleyser/stop-semantics)**
+A conformance test for emergency stops in physical AI systems. The examples come from simulation.
 
-## Methods
+**[social-exploration-primates](https://github.com/hildieleyser/social-exploration-primates)**
+Hierarchical Bayesian models in brms of how social context changes exploration in six Japanese macaques.
 
-- Behavioural experiment design and analysis
-- Awake primate fMRI and physiological recording
-- Markerless pose estimation with DeepLabCut and SLEAP
-- Bayesian models of choice and social behaviour
-- Python, MATLAB and R
-- Unity and VR for perceptual and cognitive tasks
+## Tools
 
-## Links
+**Modelling** Python, PyTorch, scikit-learn, R and brms
 
-[Personal site](https://hildieleyser.com) · [LinkedIn](https://www.linkedin.com/in/hildelith-leyser-382564206/)
+**Data** multimodal time series, LSL and XDF synchronisation, multi-view pose estimation with DeepLabCut and SLEAP
+
+**Methods** hierarchical Bayesian inference, reinforcement learning, study design
+
+## Background
+
+I was Head of Research for the human programme at Netholabs, and before that a graduate researcher at McGill and the RIKEN Center for Brain Science. I trained in data science and machine learning at Le Wagon, and I teach Python for scientific computing, including a workshop for NHS staff at Imperial College London.
+
+[hildieleyser.com](https://hildieleyser.com) · [LinkedIn](https://www.linkedin.com/in/hildelith-leyser-382564206/)
